@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning to code.
+- 🌱 I’m currently learning to code. All advices are welcomed ! ✌
 
 
